@@ -81,6 +81,24 @@ I'm a passionate Full-Stack Developer based in Dhaka, Bangladesh, specializing i
 
 <br />
 
+## 💼 Professional Experience
+
+**Full-Stack Developer** | [Docuprise.AI](https://docuprise.ai)  
+*December 2024 - July 2025*
+
+- Architected and deployed scalable web applications using Next.js, React.js, and TypeScript
+- Developed robust backend services with Node.js, Express, and MongoDB
+- Implemented RESTful APIs and optimized database queries, improving response times by 40%
+- Integrated AI/ML models for document processing and automation workflows
+- Collaborated with cross-functional teams using Agile methodologies
+- Enhanced application performance and user experience through code optimization
+
+**Jr. Full-Stack Developer** | [Sparktech Agency](https://www.sparktechagency.com)  
+*August 2025 – Present*
+
+- Built and maintained responsive, high-performance web applications using React, Next.js, Tailwind, Node.js, Express, Docker, Redis, and various third-party APIs based on client and business needs.
+- Developed and deployed automation-focused AI agents, integrated external services, and translated Figma designs into clean, scalable front-end experiences.
+
 ## 🚀 Featured Projects
 
 ### 🤖 [Ikno.ai](https://ikno.ai) - AI-Powered Learning Platform
@@ -108,23 +126,7 @@ I'm a passionate Full-Stack Developer based in Dhaka, Bangladesh, specializing i
 
 ---
 
-## 💼 Professional Experience
 
-**Full-Stack Developer** | [Docuprise.AI](https://docuprise.ai)  
-*December 2024 - July 2025*
-
-- Architected and deployed scalable web applications using Next.js, React.js, and TypeScript
-- Developed robust backend services with Node.js, Express, and MongoDB
-- Implemented RESTful APIs and optimized database queries, improving response times by 40%
-- Integrated AI/ML models for document processing and automation workflows
-- Collaborated with cross-functional teams using Agile methodologies
-- Enhanced application performance and user experience through code optimization
-
-**Jr. Full-Stack Developer** | [Sparktech Agency](https://www.sparktechagency.com)  
-*August 2025 – Present*
-
-- Built and maintained responsive, high-performance web applications using React, Next.js, Tailwind, Node.js, Express, Docker, Redis, and various third-party APIs based on client and business needs.
-- Developed and deployed automation-focused AI agents, integrated external services, and translated Figma designs into clean, scalable front-end experiences.
 
 ## 📊 GitHub Statistics
 
