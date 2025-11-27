@@ -60,9 +60,12 @@ I'm a passionate Full-Stack Developer based in Dhaka, Bangladesh, specializing i
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-F7F7F7?style=for-the-badge&logo=kafka&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 
 ### Mobile Development
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -105,9 +108,6 @@ I'm a passionate Full-Stack Developer based in Dhaka, Bangladesh, specializing i
 
 ---
 
-
-<br />
-
 ## 💼 Professional Experience
 
 **Full-Stack Developer** | [Docuprise.AI](https://docuprise.ai)  
@@ -120,7 +120,11 @@ I'm a passionate Full-Stack Developer based in Dhaka, Bangladesh, specializing i
 - Collaborated with cross-functional teams using Agile methodologies
 - Enhanced application performance and user experience through code optimization
 
-<br />
+**Jr. Full-Stack Developer** | [Sparktech Agency](https://www.sparktechagency.com)  
+*August 2025 – Present*
+
+- Built and maintained responsive, high-performance web applications using React, Next.js, Tailwind, Node.js, Express, Docker, Redis, and various third-party APIs based on client and business needs.
+- Developed and deployed automation-focused AI agents, integrated external services, and translated Figma designs into clean, scalable front-end experiences.
 
 ## 📊 GitHub Statistics
 
