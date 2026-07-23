@@ -33,7 +33,7 @@
 
 I'm a passionate Full-Stack Developer based in Dhaka, Bangladesh, specializing in building scalable, high-performance web and mobile applications using modern technologies. With expertise in the MERN stack and a focus on AI-powered solutions, I transform complex business requirements into elegant, functional products.
 
-- 🔭 **Currently working at** [Sparktech Agency](https://www.sparktech.agency) as a Full-Stack Developer
+- 🔭 **Currently working at** Freelance
 - 🚀 **Builded AI platforms** including Ikno.ai (AI-powered learning) and PaperworkX.ai (document automation)
 - 💼 **Expertise in** full-stack development, multi-vendor e-commerce platforms, and mobile applications
 - 🌱 **Currently learning** Kafka and Docker for microservices architecture
